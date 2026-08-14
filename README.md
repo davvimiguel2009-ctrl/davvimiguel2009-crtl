@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou Davi de Andrade!
+#  Olá, eu sou Davi de Andrade!
 
-💻 Desenvolvedor em formação
-🌐 HTML | CSS
-🐍 Python
-🚀 Aprendendo e criando projetos
+ Desenvolvedor em formação
+ HTML | CSS
+ Python
+ Aprendendo e criando projetos
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 Olá! Sou **Davi de Andrade** e estou iniciando minha jornada no desenvolvimento de software.
 
@@ -21,49 +21,6 @@ Tenho interesse em desenvolvimento web e programação com Python. Estou sempre 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## 🌐 HTML
-
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Meu Site</title>
-</head>
-<body>
-    <h1>Olá, mundo! 👋</h1>
-    <p>Meu primeiro projeto em HTML.</p>
-</body>
-</html>
-```
-
-## 🎨 CSS
-
-```css
-body {
-    background-color: #111827;
-    color: white;
-    font-family: Arial, sans-serif;
-    text-align: center;
-}
-
-h1 {
-    color: #38bdf8;
-}
-
-p {
-    font-size: 20px;
-}
-```
-
-## 🐍 Python
-
-```python
-nome = "Davi"
-
-print(f"Olá, {nome}!")
-print("Bem-vindo ao meu GitHub 🚀")
-```
 
 ## 📂 Projetos
 
@@ -77,16 +34,7 @@ Um site desenvolvido para praticar:
 * Cores e estilos
 * Responsividade
 
-### 🐍 Projetos em Python
 
-Projetos para praticar:
-
-* Lógica de programação
-* Variáveis
-* Condições
-* Loops
-* Funções
-* Automação
 
 ## 🎯 Meus objetivos
 
