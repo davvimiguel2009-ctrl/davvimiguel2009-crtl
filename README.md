@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Davi de Andrade
+#  Olá! Eu sou Davi de Andrade
 
 ### 💻 Estudante de Programação 
 
