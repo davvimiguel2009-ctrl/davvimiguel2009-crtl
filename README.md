@@ -1,48 +1,76 @@
 <div align="center">
 
-#  Olá! Eu sou Davi de Andrade
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7B2FFF,100:FF00CC&height=220&section=header&text=Davvi%20Miguel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 💻 Estudante de Programação 
+<h2>💻 Estudante de Programação</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davvimiguel2009-ctrl)
+<p>
+🚀 Aprendendo • 🧠 Criando • 🔥 Evoluindo
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Davvi+Miguel!+👋;Bem-vindo+ao+meu+perfil!;Estudante+de+programação+💻;Sempre+aprendendo+algo+novo+🚀"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-Olá! Eu sou **Davi de Andrade** 
-
- Estudante de programação  
- Aprendendo desenvolvimento de software  
- Criando meus primeiros projetos  
- Sempre buscando aprender algo novo  
-
-Estou usando o GitHub para registrar minha evolução, compartilhar meus projetos e construir meu portfólio como desenvolvedor.
-
----
-
-##  Tecnologias
+## 🌟 Sobre mim
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
+| 🧑‍💻 Perfil | 🚀 Objetivo |
+|:---:|:---:|
+| 🎓 Estudante | Me tornar desenvolvedor |
+| 💻 Programação | Criar projetos |
+| 📚 Aprendizado | Evoluir todos os dias |
+
+</div>
+
+Olá! Meu nome é **Davvi Miguel** 👋
+
+Estou começando minha jornada na programação e utilizando o GitHub para
+guardar meus projetos, acompanhar minha evolução e aprender cada vez mais.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 
 </div>
 
 ---
 
-##  Atualmente estudando
+## 📚 O que estou estudando
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Minha jornada
 
 ```text
- Python
- HTML
- CSS
- Git
- GitHub
- Lógica de Programação
+🌱 Começando
+      ↓
+🧠 Lógica de Programação
+      ↓
+🐍 Python
+      ↓
+🌐 HTML + CSS
+      ↓
+⚡ JavaScript
+      ↓
+🚀 Criando projetos
+      ↓
+💻 Desenvolvedor
