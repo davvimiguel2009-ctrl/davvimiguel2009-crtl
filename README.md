@@ -1,32 +1,50 @@
-Olá! Eu sou Davvi Miguel
+<div align="center">
 
- Estudante de programação
- Aprendendo desenvolvimento de software
- Construindo meus primeiros projetos e evoluindo todos os dias
+# 👋 Olá! Eu sou Davvi Miguel
 
- Sobre mim
+### 💻 Estudante de Programação | 🚀 Futuro Desenvolvedor
 
-Olá! Meu nome é Davi l. Estou começando minha jornada na programação e usando o GitHub para aprender, criar projetos e acompanhar minha evolução.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davvimiguel2009-ctrl)
 
-Tecnologias que estou aprendendo
-Python
-HTML
-CSS
-JavaScript
-Git e GitHub
- Atualmente estudando
-Lógica de programação
-Desenvolvimento Web
-Git e GitHub
-Criação de projetos
+</div>
 
+---
 
-Objetivos
-Criar meus primeiros projetos
-Melhorar minhas habilidades de programação
-Aprender novas tecnologias
-Construir um portfólio no GitHub
+## 🧑‍💻 Sobre mim
 
- Meus projetos
+Olá! Eu sou **Davvi Miguel** 👋
 
-Aqui você encontrará meus projetos, exercícios e experiências enquanto aprendo programação.
+🎓 Estudante de programação  
+💻 Aprendendo desenvolvimento de software  
+🚀 Criando meus primeiros projetos  
+📚 Sempre buscando aprender algo novo  
+
+Estou usando o GitHub para registrar minha evolução, compartilhar meus projetos e construir meu portfólio como desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+🐍 Python
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🔧 Git
+🐙 GitHub
+🧠 Lógica de Programação
