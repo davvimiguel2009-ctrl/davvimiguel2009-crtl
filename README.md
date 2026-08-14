@@ -21,21 +21,6 @@ Tenho interesse em desenvolvimento web e programação com Python. Estou sempre 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-
-## 📂 Projetos
-
-### 🌐 Site em HTML e CSS
-
-Um site desenvolvido para praticar:
-
-* HTML
-* CSS
-* Estrutura de páginas
-* Cores e estilos
-* Responsividade
-
-
-
 ## 🎯 Meus objetivos
 
 * Aprender cada vez mais sobre programação
@@ -43,14 +28,6 @@ Um site desenvolvido para praticar:
 * Desenvolver projetos em Python
 * Criar meu portfólio
 * Evoluir como desenvolvedor
-
-## 📈 Em aprendizado
-
-```text
-HTML       █████████░ 90%
-CSS        ████████░░ 80%
-Python     ██████░░░░ 60%
-```
 
 ---
 
