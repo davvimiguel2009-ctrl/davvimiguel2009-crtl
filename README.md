@@ -50,7 +50,6 @@
 - [x] Aprender a lógica de programação
 - [x] Estudar Python, HTML, CSS e C#
 - [ ] Criar meus primeiros projetos completos
-- [ ] Contribuir com projetos open source
 - [ ] Aprofundar em desenvolvimento web e back-end
 
 <br/>
